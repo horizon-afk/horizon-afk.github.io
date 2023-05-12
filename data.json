@@ -1,0 +1,30 @@
+
+{
+    "creator's recommendation":
+        {
+            "game" : "halo",
+            "genre" : "fps",
+            "year" : "2001"
+        },
+
+    "recommendation":
+    [
+        {
+            "game": "test",
+            "genre": "test",
+            "year": "testes"
+        },
+
+        {
+            "game": "heloofs",
+            "genre": "fsfsdfw",
+            "year": "fsfs"
+        },
+
+        {
+            "game": "undefined",
+            "genre": "sdfsdf",
+            "year": "sf"
+        }
+    ]
+}
